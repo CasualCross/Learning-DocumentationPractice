@@ -19,8 +19,4 @@ Fakeforums: An online website that allows users to create or join forums to disc
 - Database: PostgreSQL
 
 ## User Story
-- Login
-- Search Forum
-- Search User
-- Join / Leave Forum
-- Add / Remove other user from friendlist
+<img width="766" height="735" alt="image" src="https://github.com/user-attachments/assets/cf021973-0e87-4ee3-9eef-c3e98784f050" />
