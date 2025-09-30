@@ -10,7 +10,7 @@ Fakediscord: An online website that allows users to create or join forums to dis
 - Friend System: Users must be able to mark other users as friends
 
 ## Diagrams
-<img width="831" height="265" alt="image" src="https://github.com/user-attachments/assets/35cafb81-2bd9-44b1-b800-393c5ae1bd5a" />
+<img width="531" height="376" alt="image" src="https://github.com/user-attachments/assets/c62cbce9-d066-453c-8c87-a073f200c5ba" />
 
 ## Technologia
 - Fronted: JS + Angular
