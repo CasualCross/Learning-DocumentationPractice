@@ -10,7 +10,8 @@ Fakeforums: An online website that allows users to create or join forums to disc
 - Friend System: Users must be able to mark other users as friends
 
 ## Diagrams
-<img width="531" height="376" alt="image" src="https://github.com/user-attachments/assets/c62cbce9-d066-453c-8c87-a073f200c5ba" />
+<img width="1012" height="624" alt="image" src="https://github.com/user-attachments/assets/39628455-8629-4205-9bbe-170f0e27e09a" />
+
 
 ## Technologia
 - Fronted: JS + Angular
